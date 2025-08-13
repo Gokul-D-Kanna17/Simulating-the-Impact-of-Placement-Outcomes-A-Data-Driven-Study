@@ -1,0 +1,991 @@
+Sl No,Stream,Current Degree,10th%,12th%,UG%,Backlog,Work Experience ,Placement Status
+1,Commerce,BBA,97.28,94.8,74.17,Yes,No,Not Placed
+2,Science,BSc,86.75,83.25,82,No,No,Placed
+3,Arts,BA,82.8,90,69.67,No,No,Not Placed
+4,Commerce,BBA,62.2,58.16,52.92,Yes,No,Not Placed
+5,Commerce,BBA,76,79.83,59.056,Yes,No,Not Placed
+6,Science,BSc,94,88,72.2,No,No,Placed
+7,Commerce,BCom,95,93,80,Yes,No,Placed
+8,Commerce,BCom,72,89,67,Yes,No,Not Placed
+9,Arts,BA,70,76,56,Yes,Yes,Not Placed
+10,Professional,BVoc,94,72,70,No,No,Not Placed
+11,Commerce,BCom,78,90,69,No,No,Not Placed
+12,Commerce,BCom,94,97,75,No,No,Placed
+13,Commerce,BCom,88,93.66,67.83,No,Yes,Placed
+14,Arts,BA,76,55,55,No,Yes,Placed
+15,Commerce,BCom,77,88.167,68,No,Yes,Placed
+16,Commerce,BCom,87,88,70,No,No,Placed
+17,Commerce,BCom,83,86.67,73,No,No,Placed
+18,Professional,BSW,86,68,65,No,No,Not Placed
+19,Arts,BA,77,91,70,No,No,Placed
+20,Commerce,BCom,89.76,89.33,71.44,No,No,Placed
+21,Science,BSc,88,58,62,No,No,Placed
+22,Commerce,BCom,91,91,75,No,No,Placed
+23,Arts,BA,96,88,63,No,No,Placed
+24,Commerce,BCom,65,63,62,No,Yes,Not Placed
+25,Commerce,BCom,61,83.8,65.6,No,Yes,Placed
+26,Arts,BA,97,86,62,No,No,Placed
+27,Science,BCA,85,64,56,Yes,Yes,Not Placed
+28,Science,BSc,80.96,70.83,60,No,No,Placed
+29,Commerce,BCom,79.2,84.4,66.61,Yes,Yes,Not Placed
+30,Commerce,BCom,87.2,87.16,71.66,Yes,Yes,Not Placed
+31,Arts,BA,54,54,53.6,No,Yes,Placed
+32,Commerce,BCom,83,83,61,No,No,Not Placed
+33,Commerce,BCom,75,86,73,No,Yes,Placed
+34,Science,BCA,64.5,72.5,78.73,No,Yes,Placed
+35,Commerce,BCom,80,85,60,No,No,Not Placed
+36,Commerce,BBA,76,74,71,Yes,No,Not Placed
+37,Science,BSc,85.5,69.4,58.38,No,No,Not Placed
+38,Arts,BA,76,66,60,No,Yes,Placed
+39,Commerce,BCom,82,94,60,No,No,Placed
+40,Science,BSc,72.33,76.83,64.72,Yes,Yes,Not Placed
+41,Commerce,BCom,56.8,79.5,64.72,No,No,Placed
+42,Science,BCA,69.44,65.6667,68.8125,Yes,Yes,Not Placed
+43,Science,BSc,93.33,88,85.89,No,No,Placed
+44,Commerce,BBA,75.5,61.3,59,Yes,No,Not Placed
+45,Commerce,BCom,95,90,66,No,Yes,Placed
+46,Science,BSc,85,76,64.35,No,No,Placed
+47,Arts,BA,56,50,58,No,Yes,Not Placed
+48,Commerce,BBA,65,82.5,57.5,No,Yes,Placed
+49,Arts,BA,82,82,65,No,Yes,Placed
+50,Science,BCA,73.16,66.75,73.38,Yes,No,Not Placed
+51,Arts,BA,77.5,69,56,No,No,Not Placed
+52,Science,BSc,91.33,91.43,82,Yes,No,Placed
+53,Science,BSc,96.2,92,81.83,No,No,Placed
+54,Commerce,BBA,59.52,66.83,52.5,No,No,Not Placed
+55,Commerce,BCom,89.12,95.4,80.16,Yes,No,Not Placed
+56,Commerce,BCom,82,89,68.3,No,Yes,Placed
+57,Commerce,BCom,90,89,65,No,No,Placed
+58,Commerce,BCom,80,80,60,No,No,Placed
+59,Commerce,BCom,82,77,60,No,No,Not Placed
+60,Commerce,BCom,70.3,89,68.61,No,Yes,Placed
+61,Commerce,BCom,74.56,75.17,66,No,Yes,Placed
+62,Arts,BA,76,80.6,62.8,Yes,No,Not Placed
+63,Arts,BA,74,84,60,No,No,Not Placed
+64,Arts,BA,61,64,68,Yes,No,Not Placed
+65,Commerce,BCom,86,77,60,No,No,Placed
+66,Commerce,BCom,90.5,89,63.83,No,No,Placed
+67,Commerce,BCom,78.08,84.66,65,No,Yes,Not Placed
+68,Professional,BSW,66.72,79.5,80.78,No,No,Placed
+69,Arts,BA,82,67,64,No,No,Not Placed
+70,Commerce,BBA,73,57,59.83,Yes,No,Not Placed
+71,Arts,BA,92,92,76,Yes,Yes,Not Placed
+72,Science,BSc,90,81,73.17,No,No,Placed
+73,Science,BSc,78.8,78,66,No,Yes,Placed
+74,Science,BSc,80,78,70.695,Yes,No,Not Placed
+75,Science,BSc,90.6,93.5,76,No,Yes,Placed
+76,Arts,BA,56,55.1,56.6,No,Yes,Not Placed
+77,Science,BSc,86,78,60,Yes,Yes,Not Placed
+78,Professional,BSW,58,75.8,61,Yes,No,Not Placed
+79,Commerce,BCom,80.48,84.5,60,No,No,Placed
+80,Science,BSc,94,97,85,Yes,No,Not Placed
+81,Arts,BA,68.8,69,72,No,No,Placed
+82,Commerce,BCom,77,79,73,No,No,Placed
+83,Commerce,BCom,83,88,73,Yes,Yes,Not Placed
+84,Arts,BA,74.5,79.5,59.3,Yes,No,Not Placed
+85,Arts,BA,97,86,62,No,No,Placed
+86,Science,BCA,79.5,75.66,79.253,No,Yes,Placed
+87,Science,BCA,66.72,80.67,70.93,No,Yes,Placed
+88,Commerce,BBA,65,69,57,No,No,Not Placed
+89,Commerce,BCom,84.32,89.16,61,No,No,Not Placed
+90,Science,BSc,83.5,59,60,No,Yes,Not Placed
+91,Commerce,BCom,95.25,94,72,Yes,No,Not Placed
+92,Commerce,BCom,93.6,92.1,70.33,No,No,Placed
+93,Science,BSc,93,81,69,No,Yes,Placed
+94,Commerce,BCom,92,90.33,69.5,No,No,Placed
+95,Science,BSc,80,60,56,Yes,No,Not Placed
+96,Arts,BA,96,68,55,Yes,Yes,Not Placed
+97,Science,BSc,88.16,65.8333,55.12,Yes,Yes,Not Placed
+98,Commerce,BCom,93,93,83,No,No,Placed
+99,Science,BSc,83.6,74,65,No,Yes,Placed
+100,Science,BSc,88.16,65.88,60,No,No,Not Placed
+101,Commerce,BCom,93.1,91,66.33,Yes,No,Not Placed
+102,Science,BSc,87.4,76.6,60,No,No,Not Placed
+103,Science,BSc,86.75,83.25,82,No,No,Placed
+104,Commerce,BCom,67.83,72.83,60,No,Yes,Placed
+105,Commerce,BCom,83.6,91,79.9,No,No,Placed
+106,Science,BSc,84,63,60,No,No,Not Placed
+107,Arts,BA,97,86,62,No,No,Placed
+108,Science,BSc,89,80,65,No,No,Placed
+109,Science,BSc,95.17,85.17,70,No,Yes,Placed
+110,Science,BSc,98,90.6,79.7,No,No,Placed
+111,Commerce,BCom,70.56,85.33,72.11,No,Yes,Placed
+112,Commerce,BCom,72,74,60,No,No,Not Placed
+113,Arts,BA,70,85.2,60,No,No,Not Placed
+114,Commerce,BCom,74.56,81.4,58.75,No,No,Not Placed
+115,Arts,BA,88,76.66,70,Yes,Yes,Not Placed
+116,Science,BCA,78,60.2,70,No,No,Placed
+117,Commerce,BCom,76,85,69.085,Yes,No,Not Placed
+118,Science,BSc,95,93.6,68.33,No,Yes,Placed
+119,Commerce,BCom,82,89,68,No,Yes,Placed
+120,Commerce,BCom,72,84,69,Yes,No,Not Placed
+121,Professional,BVC,70,60,58,No,Yes,Placed
+122,Science,BSc,83.6,79.6,73.7,No,No,Placed
+123,Science,BSc,89.33,84.33,75.23,No,No,Placed
+124,Commerce,BBA,64,75,63,No,Yes,Placed
+125,Commerce,BCom,86.88,92.33,71.72,No,No,Placed
+126,Commerce,BCom,74,76,60,No,No,Not Placed
+127,Arts,BA,74,59,70,Yes,No,Not Placed
+128,Commerce,BCom,78.08,84.6,65,No,No,Placed
+129,Commerce,BCom,87,93,70,No,No,Placed
+130,Commerce,BCom,84,87,65,No,No,Placed
+131,Science,BSc,89,80,65,No,No,Placed
+132,Commerce,BBA,72,83,65,No,Yes,Not Placed
+133,Science,BSc,87.4,79,74,Yes,No,Not Placed
+134,Professional,BVC,56,78,65,No,Yes,Placed
+135,Commerce,BCom,94,91,79.94,Yes,No,Not Placed
+136,Commerce,BBA,82,67,65,Yes,Yes,Not Placed
+137,Commerce,BCom,86,85.5,80.92,No,No,Placed
+138,Science,BSc,83.6,74.4,65.18,No,Yes,Placed
+139,Science,BSc,95.36,86.83,75.66,Yes,No,Not Placed
+140,Arts,BA,63,68.4,66,No,No,Placed
+141,Science,BCA,73.44,72.16,59.62,No,No,Not Placed
+142,Arts,BA,95,90.8,80.73,No,No,Placed
+143,Commerce,BCom,78,90,69,No,Yes,Placed
+144,Science,BSc,82,85,68.5,Yes,Yes,Not Placed
+145,Science,BSc,100,93,66.67,No,Yes,Placed
+146,Science,BSc,84,80,72.82,Yes,Yes,Not Placed
+147,Science,BSc,83.04,62.5,64.36,Yes,No,Not Placed
+148,Professional,BVC,81.7,82.6,71.04,No,Yes,Placed
+149,Science,BSc,92,92,76,No,Yes,Placed
+150,Commerce,BCom,86,84,65,No,No,Placed
+151,Commerce,BCom,77.28,88.167,67.88,Yes,Yes,Not Placed
+152,Arts,BA,85,70.8,72.53,No,Yes,Placed
+153,Commerce,BCom,89,89,77,Yes,Yes,Not Placed
+154,Science,BSc,97,77,75,No,No,Placed
+155,Professional,BSW,70,60,65,No,No,Placed
+156,Commerce,BBA,81.66,73.667,59.38,No,No,Not Placed
+157,Science,BSc,83.68,74.83,64.2,No,No,Placed
+158,Science,BSc,84,59,63,No,No,Placed
+159,Science,BSc,81.33,71,72.33,Yes,Yes,Not Placed
+160,Arts,BA,100,94,75,No,No,Placed
+161,Science,BSc,82.56,73,60.3,Yes,No,Not Placed
+162,Commerce,BCom,95.5,88,75.35,Yes,Yes,Not Placed
+163,Arts,BA,81.7,73.6,63.5,Yes,No,Not Placed
+164,Commerce,BCom,91.2,80.4,52.915,Yes,Yes,Not Placed
+165,Commerce,BCom,80,75,65,No,No,Placed
+166,Commerce,BCom,93.6,90.5,74.33,Yes,Yes,Not Placed
+167,Science,BSc,87.68,82.16,67,No,Yes,Placed
+168,Science,BCA,80,82,68,No,Yes,Placed
+169,Science,BSc,85.5,69.4,75,No,No,Placed
+170,Commerce,BBA,92,76,62,Yes,Yes,Not Placed
+171,Commerce,BCom,90.5,89,63.33,No,No,Placed
+172,Commerce,BCom,90.08,94.33,77.635,No,Yes,Placed
+173,Commerce,BCom,69,86.78,72,No,No,Placed
+174,Arts,BA,64.6,75.4,69.78,No,No,Placed
+175,Professional,BVoc,76,76,60,Yes,No,Not Placed
+176,Commerce,BCom,71.52,75.833,60.6,No,Yes,Placed
+177,Commerce,BBA,72,80,58,Yes,No,Not Placed
+178,Science,BSc,88,87,70,No,No,Placed
+179,Professional,BVC,83.6,79.2,61.6,No,No,Not Placed
+180,Science,BSc,81.6,72.16,73.97,No,No,Placed
+181,Commerce,BCom,67.84,71,55.88,Yes,Yes,Not Placed
+182,Arts,BA,95,90.8,80.73,No,No,Placed
+183,Commerce,BCom,86.72,94.33,84.78,No,No,Placed
+184,Science,BSc,87.4,79.2,73.5,No,No,Placed
+185,Commerce,BBA,86,85,68,No,Yes,Placed
+186,Arts,BA,86,63,60,No,No,Placed
+187,Science,BSc,78,65,70,No,No,Placed
+188,Arts,BA,77,63,66,No,No,Placed
+189,Professional,BVoc,55.84,63.33,52.57,Yes,No,Not Placed
+190,Commerce,BCom,90.24,79.62,66,Yes,No,Not Placed
+191,Commerce,BCom,84.4,77,60.66,No,Yes,Placed
+192,Commerce,BCom,71,86.16,67.23,No,No,Placed
+193,Commerce,BCom,91.2,93.5,70,Yes,No,Not Placed
+194,Arts,BA,83,85,72,Yes,No,Not Placed
+195,Commerce,BCom,71.3,86.166,67.223,No,Yes,Placed
+196,Arts,BA,100,89.4,77.33,No,No,Placed
+197,Science,BSc,88.32,59,55.5,Yes,No,Not Placed
+198,Arts,BA,92.16,96.83,75.26,No,No,Placed
+199,Commerce,BCom,83.84,89.14,69,No,No,Placed
+200,Science,BSc,89.28,79.16,58.71,Yes,No,Not Placed
+201,Commerce,BBA,92.96,94.6,73,No,No,Placed
+202,Commerce,BCom,80,83,63,Yes,Yes,Not Placed
+203,Commerce,BCom,65,77,72.88,Yes,No,Not Placed
+204,Professional,BVoc,96,74,60,Yes,No,Not Placed
+205,Professional,BVC,80,87,85,No,No,Placed
+206,Professional,BVoc,68.32,45.83,80,No,No,Not Placed
+207,Commerce,BBA,76,74,71,No,No,Placed
+208,Science,BSc,77.98,73,65,No,No,Not Placed
+209,Commerce,BCom,87.2,87.17,76.19,No,No,Placed
+210,Commerce,BCom,61.5,79.5,58.11,No,Yes,Not Placed
+211,Arts,BA,70,70,76.6,No,No,Placed
+212,Arts,BA,77,84,78,Yes,No,Not Placed
+213,Commerce,BCom,79.2,82.17,63.22,Yes,No,Not Placed
+214,Science,BSc,82,77,60,No,No,Not Placed
+215,Science,BCA,82,69,72.3,No,Yes,Placed
+216,Arts,BA,83,84,75,No,No,Placed
+217,Commerce,BCom,91.04,86.66,71.61,Yes,Yes,Not Placed
+218,Arts,BA,77.9,63,66.46,Yes,No,Not Placed
+219,Commerce,BCom,87,89,77,No,Yes,Placed
+220,Commerce,BCom,85.96,80.5,70,Yes,No,Not Placed
+221,Science,BSc,90.24,77,68,No,Yes,Placed
+222,Commerce,BBA,89,86,78,Yes,No,Not Placed
+223,Science,BSc,96.2,92,81.83,No,No,Placed
+224,Science,BSc,95.36,86.83,75.66,No,No,Placed
+225,Commerce,BCom,67,78,62.55,Yes,No,Not Placed
+226,Commerce,BBA,85.5,85,66,Yes,No,Not Placed
+227,Arts,BA,76,66,60,No,No,Not Placed
+228,Science,BSc,89,79,63,No,Yes,Placed
+229,Science,BSc,63.5,61.66,59.61,No,No,Not Placed
+230,Science,BSc,91,90,82,Yes,No,Not Placed
+231,Science,BSc,71.84,56.33,56.33,Yes,Yes,Not Placed
+232,Commerce,BBA,63,74,63,No,No,Placed
+233,Science,BCA,85,86.25,63,No,Yes,Placed
+234,Science,BCA,82.333,70.88,80,No,No,Not Placed
+235,Arts,BA,76,54,58,Yes,Yes,Not Placed
+236,Science,BSc,92.15,76.4,62.18,No,No,Placed
+237,Science,BSc,93,75,69.69,Yes,No,Not Placed
+238,Commerce,BCom,91.52,89,63.33,No,Yes,Placed
+239,Arts,BA,70,62,58.5,No,No,Not Placed
+240,Commerce,BCom,74,81.4,58.75,No,No,Not Placed
+241,Science,BSc,95,91.4,85,No,No,Placed
+242,Arts,BA,75,80,80,No,Yes,Placed
+243,Commerce,BCom,75.36,76.77,52.83,No,Yes,Placed
+244,Professional,BVoc,87.84,83.66,68.47,Yes,Yes,Not Placed
+245,Professional,BVoc,65,63,80,Yes,Yes,Not Placed
+246,Arts,BA,90,83,60,No,No,Not Placed
+247,Arts,BA,82,80,75,Yes,Yes,Not Placed
+248,Commerce,BCom,81.7,91,82.22,No,Yes,Not Placed
+249,Science,BSc,76,80,58.87,Yes,No,Not Placed
+250,Science,BSc,86.56,75.66,60.15,No,Yes,Placed
+251,Science,BSc,82.24,73.33,63,No,No,Placed
+252,Commerce,BCom,93.28,89.67,76.72,No,No,Placed
+253,Commerce,BCom,93,92,60,Yes,No,Not Placed
+254,Commerce,BCom,77.9,79.8,64.89,No,No,Not Placed
+255,Commerce,BCom,94.83,96.67,88.44,No,No,Not Placed
+256,Arts,BA,65,55,59.9,Yes,No,Not Placed
+257,Science,BSc,83.6,74,56.82,No,No,Not Placed
+258,Commerce,BCom,71.68,77.16,54,Yes,No,Not Placed
+259,Commerce,BCom,59.36,73.66,72,Yes,No,Not Placed
+260,Professional,BVoc,76,71,72,Yes,Yes,Not Placed
+261,Science,BSc,85.5,73,69,No,No,Placed
+262,Arts,BA,86,83,69,No,Yes,Placed
+263,Arts,BA,87.3,74,53.3,Yes,No,Not Placed
+264,Arts,BA,65,70,56,No,Yes,Placed
+265,Arts,BA,87.16,93.16,68.9,No,Yes,Placed
+266,Science,BSc,89,93.5,79.61,Yes,Yes,Not Placed
+267,Science,BSc,92.64,87.83,63.95,No,No,Placed
+268,Professional,BVC,85,85,69,No,Yes,Placed
+269,Science,BSc,69.12,69,62.6,Yes,No,Not Placed
+270,Science,BSc,88,82,57.095,No,No,Not Placed
+271,Commerce,BCom,77,70,57.5,Yes,No,Not Placed
+272,Commerce,BCom,95.84,91.5,54,Yes,No,Not Placed
+273,Arts,BA,90,82,70,No,No,Placed
+274,Professional,BVoc,67,64,65,No,Yes,Not Placed
+275,Commerce,BCom,95.84,91.5,55,Yes,No,Not Placed
+276,Science,BCA,75.39,86,69.66,No,Yes,Placed
+277,Commerce,BBA,73,57,59.8,No,No,Not Placed
+278,Arts,BA,92,92,76,No,No,Placed
+279,Science,BSc,85,74,71,No,No,Placed
+280,Commerce,BCom,91,86,70,No,No,Placed
+281,Science,BSc,92,74,55,Yes,No,Not Placed
+282,Professional,BVoc,77,49.5,65,No,No,Placed
+283,Commerce,BCom,87.68,88.5,75,No,No,Placed
+284,Commerce,BCom,78.72,86.6,66.16,No,Yes,Placed
+285,Arts,BA,85,72,64,No,No,Placed
+286,Commerce,BCom,91,86,78,Yes,Yes,Not Placed
+287,Science,BSc,85.76,85.6,71.1,No,Yes,Placed
+288,Commerce,BCom,73,85,71.89,Yes,No,Not Placed
+289,Science,BSc,85.5,77.4,64.35,No,No,Placed
+290,Commerce,BCom,78.6,79.9,65,No,Yes,Not Placed
+291,Arts,BA,95,90,59.26,No,No,Not Placed
+292,Commerce,BCom,76.64,68,65,No,No,Placed
+293,Commerce,BCom,78,71,56,No,No,Not Placed
+294,Commerce,BCom,91,91,75,Yes,No,Not Placed
+295,Science,BSc,69.12,69,58.77,No,No,Not Placed
+296,Commerce,BBA,76,85,65.93,Yes,No,Not Placed
+297,Science,BSc,57,61.16,57.41,No,Yes,Not Placed
+298,Commerce,BCom,74,84,71.61,Yes,No,Not Placed
+299,Commerce,BCom,89.44,82.66,72.22,Yes,Yes,Not Placed
+300,Commerce,BCom,90,89.7,56,No,No,Not Placed
+301,Arts,BA,91.6,51.2,54.25,No,Yes,Placed
+302,Arts,BA,63,60,66,No,No,Not Placed
+303,Science,BSc,86.33,83,70,No,Yes,Placed
+304,Science,BSc,93,75,69.7,No,Yes,Placed
+305,Commerce,BCom,91.04,86.5,70.5,Yes,Yes,Not Placed
+306,Commerce,BBA,74,67.8,55.6,Yes,No,Not Placed
+307,Arts,BA,89.5,90,62,No,No,Placed
+308,Science,BSc,85,80,73,Yes,No,Not Placed
+309,Arts,BA,90,83,61.64,No,No,Not Placed
+310,Commerce,BCom,83.68,81.66,65.33,No,Yes,Placed
+311,Commerce,BCom,94.72,94.83,77.72,No,Yes,Placed
+312,Science,BSc,92.32,77,63.615,Yes,Yes,Not Placed
+313,Professional,BVoc,98,78,70,No,No,Placed
+314,Science,BSc,95,92,66.67,No,Yes,Placed
+315,Commerce,BCom,68,73,65,No,No,Placed
+316,Science,BCA,91,88,90.66,No,No,Placed
+317,Commerce,BCom,69,91.83,71.83,No,No,Placed
+318,Arts,BA,84,90,65,No,Yes,Placed
+319,Commerce,BCom,91.5,96.6,80.28,No,No,Placed
+320,Science,BSc,73.16,71,70,Yes,No,Not Placed
+321,Commerce,BBA,87,88,79,No,Yes,Placed
+322,Professional,BVoc,69,79,66,Yes,No,Not Placed
+323,Professional,BVoc,78,69,66.07,Yes,No,Not Placed
+324,Commerce,BCom,91.2,95.5,77,Yes,No,Not Placed
+325,Arts,BA,100,86,73,Yes,No,Not Placed
+326,Science,BSc,82,72,59,No,No,Not Placed
+327,Science,BCA,64.5,72.5,78,No,No,Placed
+328,Science,BSc,90,82,70,Yes,Yes,Not Placed
+329,Commerce,BCom,74.17,75.17,66,No,Yes,Placed
+330,Commerce,BCom,69.5,67.67,62,No,No,Placed
+331,Science,BSc,76,80,58.87,Yes,No,Not Placed
+332,Science,BSc,92.8,78.8,60,No,No,Placed
+333,Commerce,BCom,91.52,89,63.33,Yes,No,Not Placed
+334,Arts,BA,63,60,66,Yes,Yes,Not Placed
+335,Science,BSc,78,70,62,No,No,Not Placed
+336,Commerce,BCom,83.6,91,79.6,Yes,No,Not Placed
+337,Professional,BVC,8,7.5,7,No,No,Not Placed
+338,Commerce,BCom,90.4,83.67,64.67,No,Yes,Placed
+339,Science,BSc,88.16,88.83,77,Yes,No,Not Placed
+340,Professional,BVoc,96,73,65,No,No,Placed
+341,Professional,BVoc,51,61,70,Yes,No,Not Placed
+342,Commerce,BBA,71,85.2,61.16,No,No,Placed
+343,Arts,BA,96,73,63,No,Yes,Placed
+344,Commerce,BCom,74,75.6,66,No,No,Placed
+345,Science,BSc,78,70,61.67,No,Yes,Placed
+346,Commerce,BBA,85.4,87.4,67.44,Yes,Yes,Not Placed
+347,Commerce,BCom,77,93.83,71.83,No,No,Placed
+348,Commerce,BCom,81.6,85.17,69.55,Yes,No,Not Placed
+349,Professional,BVoc,78,60,53.16,No,Yes,Placed
+350,Commerce,BCom,75,88.8,75,Yes,No,Not Placed
+351,Arts,BA,60.16,72.8,63,No,Yes,Placed
+352,Professional,BVoc,89.3,68.2,56.6,No,Yes,Not Placed
+353,Commerce,BCom,56,77,69,No,No,Placed
+354,Commerce,BCom,68,79,60,No,No,Not Placed
+355,Science,BSc,67.6,72.5,62.76,Yes,No,Not Placed
+356,Commerce,BCom,88,85,71,Yes,Yes,Not Placed
+357,Arts,BA,57,76,54,Yes,Yes,Not Placed
+358,Science,BSc,94,87,77.22,No,No,Placed
+359,Professional,BVoc,93,61,53.33,No,No,Placed
+360,Commerce,BCom,83.43,87.32,59,No,Yes,Not Placed
+361,Professional,BSW,70,60,70,Yes,Yes,Not Placed
+362,Science,BCA,66.72,80.67,71,No,Yes,Placed
+363,Commerce,BCom,62.6,77,72.88,Yes,No,Not Placed
+364,Commerce,BCom,86,83,64.25,No,No,Placed
+365,Commerce,BCom,91.2,93.5,79,No,No,Placed
+366,Commerce,BCom,89.3,91.4,75.3,Yes,No,Not Placed
+367,Science,BCA,76,64,61,No,No,Not Placed
+368,Science,BSc,90.8,88,75,Yes,Yes,Not Placed
+369,Commerce,BCom,80,79.95,52,No,Yes,Placed
+370,Science,BCA,71.04,83.833,74,No,No,Placed
+371,Science,BSc,95,96,80,No,No,Not Placed
+372,Arts,BA,95,81.4,65.93,Yes,No,Not Placed
+373,Commerce,BBA,77.2,81.4,67.8,No,Yes,Placed
+374,Science,BSc,95,89,67.02,Yes,Yes,Not Placed
+375,Commerce,BBA,86,85,60,No,No,Not Placed
+376,Commerce,BCom,74,76,60,No,No,Not Placed
+377,Arts,BA,63.66,74.33,61,No,No,Placed
+378,Science,BSc,84,74.83,64.2,Yes,No,Not Placed
+379,Commerce,BBA,82,82,62,No,No,Not Placed
+380,Arts,BA,78.5,82.4,69.33,No,Yes,Placed
+381,Science,BSc,75,78,66,No,Yes,Placed
+382,Arts,BA,76,80,74,Yes,Yes,Not Placed
+383,Commerce,BCom,91.4,83,74.3,No,No,Placed
+384,Science,BSc,77,65.6,68.61,No,Yes,Placed
+385,Commerce,BBA,89,82,65.77,Yes,No,Not Placed
+386,Arts,BA,55.52,78,75,Yes,No,Not Placed
+387,Arts,BA,88.17,85.5,76.3,No,No,Placed
+388,Commerce,BCom,94.08,88.333,71.06,Yes,No,Not Placed
+389,Commerce,BCom,76,67,60,No,No,Not Placed
+390,Commerce,BCom,80.5,88,76.72,No,No,Placed
+391,Arts,BA,85,71,55.033,No,No,Not Placed
+392,Commerce,BBA,66,75.33,52.3,Yes,No,Not Placed
+393,Arts,BA,75.16,61.16,61.15,Yes,No,Not Placed
+394,Science,BSc,87.4,83.83,76.465,No,No,Placed
+395,Commerce,BCom,84,84.33,70.78,No,Yes,Placed
+396,Science,BCA,69.44,65.66,68.8125,No,Yes,Placed
+397,Science,BCA,69,77,59,Yes,No,Not Placed
+398,Science,BSc,90,82,70,Yes,Yes,Not Placed
+399,Commerce,BCom,72,76,56,No,Yes,Placed
+400,Science,BSc,95,92,65,Yes,No,Not Placed
+401,Science,BCA,74.16,90.66,79.83,No,Yes,Not Placed
+402,Professional,BVoc,61,70,54,No,Yes,Placed
+403,Science,BSc,84,86,70,Yes,No,Not Placed
+404,Science,BSc,84,80,68.58,No,Yes,Placed
+405,Science,BSc,94.6,91,82,No,No,Not Placed
+406,Science,BSc,78,85.2,68,No,Yes,Placed
+407,Commerce,BCom,80.8,89.8,74.56,No,No,Placed
+408,Science,BSc,76,80.167,58.87,Yes,Yes,Not Placed
+409,Science,BSc,91.3,91.3,80,No,Yes,Not Placed
+410,Science,BSc,78,64,60,Yes,No,Not Placed
+411,Commerce,BCom,73,82,76,No,No,Placed
+412,Commerce,BCom,90,86,67,No,Yes,Placed
+413,Arts,BA,72,87,60,Yes,No,Not Placed
+414,Commerce,BBA,82,79.4,59,No,Yes,Placed
+415,Commerce,BBA,83.5,94.5,80.2,Yes,No,Not Placed
+416,Professional,BVoc,76,71,70,Yes,Yes,Not Placed
+417,Science,BSc,92,79.66,63.96,Yes,Yes,Not Placed
+418,Commerce,BBA,81.7,90,74.94,No,No,Placed
+419,Professional,BVoc,76,71,75,No,No,Placed
+420,Commerce,BCom,91,86,78,No,No,Placed
+421,Commerce,BBA,82,79.4,58,Yes,Yes,Not Placed
+422,Science,BCA,69,77,59,No,No,Not Placed
+423,Commerce,BCom,78,82.6,60.91,Yes,No,Not Placed
+424,Science,BSc,92,90.83,82.93,No,No,Placed
+425,Commerce,BBA,92,87,65,Yes,No,Not Placed
+426,Arts,BA,75,85,70,No,Yes,Placed
+427,Commerce,BBA,79.8,91.5,65,Yes,No,Not Placed
+428,Commerce,BCom,83.68,76.33,62.94,No,Yes,Not Placed
+429,Commerce,BCom,68,89,63.55,No,No,Placed
+430,Commerce,BCom,61.44,83.83,65.5,No,Yes,Placed
+431,Arts,BA,66,70,56,Yes,No,Not Placed
+432,Arts,BA,97,82,60,No,No,Placed
+433,Commerce,BCom,83.68,76.33,62.94,No,No,Placed
+434,Commerce,BBA,92,76,63,No,No,Placed
+435,Science,BSc,91,72,59.8,No,Yes,Placed
+436,Commerce,BBA,70,83,70,No,No,Placed
+437,Professional,BVoc,68.8,50.5,70,No,No,Placed
+438,Arts,BA,70,85.2,60,Yes,No,Not Placed
+439,Arts,BA,70,85.2,60,No,No,Not Placed
+440,Science,BCA,91.6,72,61,Yes,No,Not Placed
+441,Arts,BA,95,64.6,66,Yes,Yes,Not Placed
+442,Professional,BVoc,69,71,65,No,No,Placed
+443,Commerce,BCom,79,89,79,No,No,Placed
+444,Arts,BA,70,71,65,No,Yes,Placed
+445,Professional,BSW,98,78,70,No,No,Placed
+446,Science,BSc,75,66.66,60,No,No,Not Placed
+447,Science,BCA,80,80,60,Yes,No,Not Placed
+448,Professional,BVoc,71,63,58,No,No,Not Placed
+449,Arts,BA,68.8,75.4,65,No,No,Not Placed
+450,Commerce,BCom,87.83,85.2,78,Yes,No,Not Placed
+451,Arts,BA,70,78.5,72.43,No,Yes,Placed
+452,Science,BSc,79.6,78,76,No,No,Placed
+453,Science,BSc,83.6,79.6,73.7,No,No,Placed
+454,Science,BSc,83.84,57,52.97,No,Yes,Placed
+455,Science,BSc,82,85,68.5,No,No,Placed
+456,Science,BSc,95,91,68.46,Yes,Yes,Not Placed
+457,Science,BSc,90.4,65.17,56.03,No,No,Placed
+458,Science,BSc,84.6,72,60,No,No,Not Placed
+459,Commerce,BCom,74,76,60,No,No,Not Placed
+460,Science,BCA,71.04,83.833,74,Yes,No,Not Placed
+461,Science,BSc,79,66.834,63.846,Yes,Yes,Not Placed
+462,Science,BCA,73.33,66.75,73.375,No,No,Placed
+463,Commerce,BCom,81,86,60,Yes,Yes,Not Placed
+464,Professional,BVoc,95,85,85,No,Yes,Placed
+465,Science,BSc,91.5,92.7,75,No,No,Placed
+466,Professional,BVoc,80,73,73.8,No,Yes,Placed
+467,Science,BSc,91.5,84.5,71,No,No,Placed
+468,Arts,BA,82,87,60,Yes,No,Not Placed
+469,Science,BCA,85.5,86.25,67.5,No,Yes,Placed
+470,Arts,BA,96,70.16,63.4,Yes,Yes,Not Placed
+471,Arts,BA,83.5,75.1667,59.85,Yes,No,Not Placed
+472,Commerce,BCom,70,81,62,No,No,Placed
+473,Commerce,BCom,77.83,79,60.25,No,No,Not Placed
+474,Science,BCA,93.5,68,80,No,No,Placed
+475,Arts,BA,75,73,65,No,No,Placed
+476,Arts,BA,87.4,78.8,53.99,No,Yes,Not Placed
+477,Arts,BA,80,80.6,74,No,No,Placed
+478,Arts,BA,100,94,72,Yes,No,Not Placed
+479,Science,BSc,94,87,77,No,No,Placed
+480,Science,BSc,91.5,92.7,75,No,No,Placed
+481,Commerce,BCom,94.4,91,66.5,Yes,No,Not Placed
+482,Commerce,BBA,86,85,60,No,Yes,Placed
+483,Arts,BA,71.6,78,59,No,No,Not Placed
+484,Commerce,BCom,86,90,65,No,Yes,Not Placed
+485,Science,BSc,93.33,88,88,No,No,Placed
+486,Commerce,BCom,90,83,55.88,Yes,No,Not Placed
+487,Science,BCA,80.16,89,87,No,No,Placed
+488,Commerce,BCom,63,88,61,Yes,No,Not Placed
+489,Commerce,BCom,82,90,67.5,Yes,Yes,Not Placed
+490,Science,BSc,90.24,90.1,72,Yes,Yes,Not Placed
+491,Science,BCA,76,69,60,No,No,Not Placed
+492,Science,BSc,95.5,95.2,84,No,No,Placed
+493,Commerce,BCom,69,91.83,71.83,No,No,Placed
+494,Arts,BA,92.1,91.8,74.4,Yes,No,Not Placed
+495,Science,BSc,90.33,81.16,73.17,No,No,Placed
+496,Commerce,BCom,78,90,69,Yes,Yes,Not Placed
+497,Science,BSc,94,86,76.97,No,Yes,Placed
+498,Arts,BA,98,90,78,Yes,No,Not Placed
+499,Science,BSc,75.36,66,60,Yes,No,Not Placed
+500,Commerce,BCom,7.5,7.1,8,No,Yes,Not Placed
+501,Commerce,BCom,79,84,66,No,Yes,Placed
+502,Commerce,BCom,83,87,75,Yes,No,Not Placed
+503,Arts,BA,59.4,85.3,62.46,No,No,Placed
+504,Commerce,BBA,76,85.5,61.5,No,No,Not Placed
+505,Arts,BA,95,90.3,59.26,No,No,Not Placed
+506,Arts,BA,88,76.67,70,No,Yes,Placed
+507,Commerce,BCom,64,92,70,No,No,Placed
+508,Professional,BVoc,80,83,75,No,No,Placed
+509,Science,BSc,96.96,81.33,79.615,No,No,Placed
+510,Science,BSc,88,58,62,No,No,Not Placed
+511,Arts,BA,95,92.4,70,Yes,No,Not Placed
+512,Commerce,BCom,70.56,69,57.75,No,No,Not Placed
+513,Commerce,BCom,74,84,71,Yes,No,Not Placed
+514,Science,BSc,95,100,74.72,No,Yes,Placed
+515,Science,BSc,82,69,62,No,No,Placed
+516,Science,BCA,67,62,65,No,No,Not Placed
+517,Professional,BVC,82,80.33,68,No,Yes,Placed
+518,Commerce,BCom,88,95.3,77,No,No,Placed
+519,Professional,BVoc,78,71.8,65,No,No,Placed
+520,Commerce,BCom,77.88,83.33,69.5,No,No,Placed
+521,Professional,BVC,74,79,71.5,No,No,Placed
+522,Commerce,BCom,84.3,91.2,76.11,No,No,Placed
+523,Science,BCA,96,80,80,No,No,Not Placed
+524,Commerce,BCom,84.64,80,54,No,Yes,Placed
+525,Science,BSc,75,76,64.07,No,Yes,Placed
+526,Arts,BA,65.5,65.4,67.33,No,No,Placed
+527,Science,BSc,89.73,78.3,63,No,No,Not Placed
+528,Commerce,BCom,80,75,62,No,No,Not Placed
+529,Science,BSc,84.5,94.5,68.381,No,Yes,Placed
+530,Science,BSc,79.8,86.4,74.8,No,No,Placed
+531,Commerce,BBA,87,88,79,Yes,Yes,Not Placed
+532,Science,BSc,96,77,62.5,Yes,No,Not Placed
+533,Commerce,BBA,78,84.5,68,No,Yes,Placed
+534,Science,BSc,85.12,74.33333,69.23,Yes,No,Not Placed
+535,Science,BSc,96,68,57,No,No,Not Placed
+536,Science,BCA,77.28,75.17,53,No,Yes,Placed
+537,Science,BCA,73.44,72,59,No,No,Not Placed
+538,Professional,BVoc,53.2,61,70,Yes,Yes,Not Placed
+539,Commerce,BCom,82,89,68.3,No,No,Placed
+540,Arts,BA,79.8,82.6,73,No,Yes,Placed
+541,Commerce,BBA,56,77,69,No,No,Placed
+542,Science,BSc,97.76,83,85.89,No,No,Placed
+543,Arts,BA,95,94,76.76,Yes,No,Not Placed
+544,Commerce,BCom,91.36,81.83,61.67,No,Yes,Not Placed
+545,Professional,BVoc,76,72,70,No,No,Placed
+546,Commerce,BCom,95,97,70,No,No,Placed
+547,Science,BSc,85,89.33,74.31,Yes,No,Not Placed
+548,Commerce,BCom,79.8,93.6,77,Yes,Yes,Not Placed
+549,Science,BSc,85.6,84.33,71.69,No,No,Placed
+550,Arts,BA,82,86,65,Yes,Yes,Not Placed
+551,Commerce,BCom,89,89,78,Yes,Yes,Not Placed
+552,Science,BCA,85,82,60,Yes,No,Not Placed
+553,Commerce,BCom,71.84,89.5,70,No,Yes,Placed
+554,Science,BCA,74.1,90.5,79.8,No,No,Placed
+555,Professional,BVoc,95,85,85,No,No,Placed
+556,Arts,BA,86,83,72,No,No,Placed
+557,Science,BCA,71.04,83.833,74,No,No,Placed
+558,Commerce,BCom,76,89,66.7,No,Yes,Placed
+559,Commerce,BBA,54.4,77,70,No,No,Placed
+560,Science,BSc,94.08,90.5,80.53,Yes,No,Not Placed
+561,Commerce,BCom,79.2,84.4,66.61,No,Yes,Placed
+562,Commerce,BCom,55,85.8,64.1,No,No,Placed
+563,Professional,BVoc,81,76.2,73.5,Yes,No,Not Placed
+564,Arts,BA,60,91,72,No,No,Placed
+565,Commerce,BCom,84,87,65,Yes,No,Not Placed
+566,Commerce,BBA,80.96,64.16,68.94,No,No,Placed
+567,Commerce,BCom,84.64,81.5,58.08,No,Yes,Placed
+568,Arts,BA,87.16,93.16,68,Yes,Yes,Not Placed
+569,Commerce,BBA,85.3,88.2,69,No,Yes,Placed
+570,Commerce,BBA,97,94,74.17,No,No,Placed
+571,Commerce,BCom,74.72,76,64.83,No,No,Placed
+572,Commerce,BCom,78.88,78.5,62,Yes,Yes,Not Placed
+573,Commerce,BCom,56.16,85,67.44,No,Yes,Placed
+574,Science,BSc,94,97,85,Yes,Yes,Not Placed
+575,Commerce,BCom,65.44,89.5,69.05,No,Yes,Placed
+576,Science,BSc,86.6,73,59,Yes,No,Not Placed
+577,Commerce,BCom,80,75,64.5,Yes,Yes,Not Placed
+578,Commerce,BCom,92.32,89.19,72.11,Yes,No,Not Placed
+579,Science,BCA,92.32,85,90,No,No,Not Placed
+580,Arts,BA,95,94,76.46,No,No,Placed
+581,Commerce,BBA,83.5,94.5,81,Yes,No,Placed
+582,Commerce,BCom,88.96,69,58,No,No,Not Placed
+583,Arts,BA,97,86,62,No,No,Placed
+584,Commerce,BCom,84,87,65,Yes,No,Not Placed
+585,Science,BSc,98,85.6,85.74,No,No,Placed
+586,Arts,BA,75,80,80,Yes,No,Not Placed
+587,Arts,BA,65.5,65.4,67.33,No,Yes,Placed
+588,Commerce,BCom,78,67,60,No,No,Not Placed
+589,Commerce,BCom,83.36,86,59.335,No,No,Not Placed
+590,Science,BSc,83.6,59,60.6,No,Yes,Placed
+591,Commerce,BCom,81,90,67.64,No,Yes,Placed
+592,Science,BSc,89.83,88.66,83.02,Yes,No,Placed
+593,Science,BSc,79.6,78.16,77.075,Yes,No,Not Placed
+594,Commerce,BCom,61.44,83.8,65.5,Yes,No,Not Placed
+595,Commerce,BCom,87,93,74,No,No,Placed
+596,Professional,BVoc,62,51,62,No,No,Not Placed
+597,Arts,BA,77,83,78,No,No,Placed
+598,Science,BSc,67,53,60,No,No,Placed
+599,Commerce,BCom,90.4,92,72.21,No,No,Placed
+600,Commerce,BCom,75.52,86.16,66.5,No,Yes,Placed
+601,Commerce,BCom,79,81,60,Yes,No,Not Placed
+602,Commerce,BCom,89.44,88.16,65.38,No,No,Placed
+603,Professional,BVoc,53,51,55,Yes,No,Not Placed
+604,Commerce,BCom,88,94,67.83,No,Yes,Placed
+605,Arts,BA,63,72,65,Yes,No,Not Placed
+606,Commerce,BCom,74.1,82.2,75,No,No,Placed
+607,Commerce,BBA,86,85,69,No,Yes,Placed
+608,Science,BSc,77.83,81,63.82,No,No,Placed
+609,Commerce,BBA,88,89,66.16,No,Yes,Placed
+610,Science,BSc,87,81.8,83,Yes,No,Placed
+611,Commerce,BCom,65.92,66.5,60.63,No,No,Not Placed
+612,Commerce,BCom,93.12,91.5,77,Yes,No,Not Placed
+613,Science,BCA,89.28,87,80,No,No,Placed
+614,Commerce,BCom,95.2,95,75,No,Yes,Placed
+615,Commerce,BBA,58,78,60,No,Yes,Placed
+616,Commerce,BCom,64.48,82.33,70.67,No,No,Placed
+617,Commerce,BCom,86.72,68.33,59.085,No,No,Not Placed
+618,Science,BCA,66.72,80.67,71,No,No,Placed
+619,Arts,BA,84,64,66.3,Yes,Yes,Not Placed
+620,Commerce,BBA,65,82.5,58,No,No,Not Placed
+621,Commerce,BCom,62,84.5,60,No,Yes,Not Placed
+622,Arts,BA,76,83.8,64.16,Yes,No,Not Placed
+623,Commerce,BCom,95,87,75,No,No,Placed
+624,Science,BSc,90.88,84,65,Yes,No,Not Placed
+625,Science,BSc,76.6,88.75,79.84,Yes,No,Not Placed
+626,Professional,BVoc,74,65,60,Yes,Yes,Not Placed
+627,Science,BCA,73.33,66.75,73.37,No,No,Placed
+628,Arts,BA,54,54,54,No,Yes,Not Placed
+629,Commerce,BCom,74,84,55,No,Yes,Placed
+630,Commerce,BCom,72,78,56.61,No,No,Not Placed
+631,Commerce,BCom,89.33,74.83,60.66,No,No,Not Placed
+632,Commerce,BCom,86.88,92.33,71.72,No,Yes,Placed
+633,Science,BSc,82,68,60,Yes,No,Not Placed
+634,Arts,BA,50,55,75,No,No,Placed
+635,Arts,BA,85,76,65,No,No,Placed
+636,Commerce,BCom,97.9,89.7,56.7,Yes,No,Not Placed
+637,Science,BCA,74,69,61,Yes,Yes,Not Placed
+638,Commerce,BCom,89.44,88,79.66,No,No,Not Placed
+639,Science,BSc,98.88,82,79.28,Yes,Yes,Not Placed
+640,Commerce,BBA,85.4,87.4,67.44,No,Yes,Placed
+641,Science,BCA,92.32,85,88.37,No,No,Not Placed
+642,Science,BSc,88,58,62,No,No,Placed
+643,Commerce,BCom,75,85.3,71.833,No,Yes,Placed
+644,Science,BCA,95.04,86.5,90.37,No,No,Placed
+645,Commerce,BCom,95,95.4,75.6,No,No,Placed
+646,Science,BSc,95.68,94.83,88.31,No,No,Not Placed
+647,Commerce,BBA,72,78,65,No,No,Placed
+648,Commerce,BCom,90.8,94.33,78.39,Yes,Yes,Not Placed
+649,Professional,BVoc,92.15,71.1,85,No,No,Not Placed
+650,Commerce,BCom,78,83,60.6,No,Yes,Not Placed
+651,Commerce,BCom,94.4,91,70.3,Yes,No,Not Placed
+652,Science,BSc,85.92,57.6,60.3,No,No,Not Placed
+653,Science,BSc,91.2,80,68.77,Yes,Yes,Not Placed
+654,Science,BSc,86.33,82.83,68.16,No,Yes,Placed
+655,Science,BCA,76.2,64.5,75.8,No,No,Placed
+656,Commerce,BCom,86,78,58,Yes,No,Not Placed
+657,Arts,BA,84,90,78,No,No,Placed
+658,Commerce,BCom,92,90,71.66,Yes,Yes,Not Placed
+659,Professional,BVoc,68.32,45.83,68.61,Yes,No,Not Placed
+660,Commerce,BCom,59,85,67,No,No,Placed
+661,Arts,BA,95,90,76,Yes,No,Not Placed
+662,Commerce,BBA,75,89.5,53,No,Yes,Placed
+663,Science,BSc,83.6,81,72.1,Yes,Yes,Not Placed
+664,Commerce,BCom,81.7,75.4,66,No,Yes,Placed
+665,Arts,BA,70,70,65.067,Yes,No,Not Placed
+666,Arts,BA,65,65.4,67,No,Yes,Placed
+667,Commerce,BCom,90,89,62.33,No,No,Not Placed
+668,Arts,BA,82.4,81.75,66.2,Yes,Yes,Not Placed
+669,Science,BCA,77.44,83,78.25,Yes,No,Not Placed
+670,Commerce,BBA,74,57,59.8,No,No,Not Placed
+671,Commerce,BCom,82,85,70,Yes,No,Not Placed
+672,Arts,BA,96,72,63,No,Yes,Not Placed
+673,Commerce,BBA,74,89,52.25,No,No,Not Placed
+674,Commerce,BCom,72,70,58,No,No,Not Placed
+675,Professional,BVoc,78,60,56.25,No,No,Not Placed
+676,Commerce,BCom,89.98,86,64.34,No,No,Placed
+677,Science,BSc,94,89,75,Yes,No,Not Placed
+678,Commerce,BCom,78,92,80,No,No,Placed
+679,Science,BSc,90.88,85,60,Yes,No,Not Placed
+680,Commerce,BBA,80,82,58,No,No,Not Placed
+681,Commerce,BCom,94,90.5,74.33,Yes,Yes,Not Placed
+682,Professional,BVC,81.5,75.2,71,No,No,Placed
+683,Commerce,BBA,76,79.83,60,No,Yes,Not Placed
+684,Commerce,BCom,93.6,92.19,67.45,No,Yes,Placed
+685,Commerce,BBA,70,83,71,Yes,No,Not Placed
+686,Science,BCA,71.04,83.833,74,No,No,Placed
+687,Commerce,BCom,78.24,89,72,No,Yes,Placed
+688,Commerce,BCom,63,88.33,66,No,Yes,Placed
+689,Science,BSc,79,69,60,No,No,Not Placed
+690,Science,BSc,88,77,67,Yes,Yes,Not Placed
+691,Commerce,BCom,82,78,61,No,No,Not Placed
+692,Arts,BA,74,71,62.75,No,Yes,Placed
+693,Commerce,BCom,80,75,64,No,Yes,Not Placed
+694,Science,BSc,93,70,64,No,No,Placed
+695,Science,BCA,96,80,80,No,No,Placed
+696,Science,BSc,90,90,72,No,Yes,Placed
+697,Commerce,BCom,91.2,87,74,No,No,Placed
+698,Arts,BA,92,89.6,70.86,No,Yes,Placed
+699,Commerce,BBA,79,91,65,Yes,Yes,Not Placed
+700,Professional,BVoc,87.4,87.5,60,No,No,Not Placed
+701,Science,BSc,79,55,56.9,No,Yes,Placed
+702,Science,BCA,73.44,72,59,No,No,Not Placed
+703,Commerce,BCom,74.56,81.4,58.75,Yes,Yes,Not Placed
+704,Commerce,BCom,68.18,65,61,No,No,Not Placed
+705,Science,BSc,98,85.6,85.74,No,No,Placed
+706,Science,BSc,94.08,90.5,80,No,No,Placed
+707,Arts,BA,100,86,72,No,No,Placed
+708,Arts,BA,86,95,75,Yes,No,Not Placed
+709,Commerce,BBA,59.52,66.8,52.5,Yes,No,Not Placed
+710,Commerce,BCom,68.96,91.5,60.44,No,No,Placed
+711,Science,BSc,96.2,80.1,80,No,No,Placed
+712,Science,BSc,80,80,64.1,Yes,No,Not Placed
+713,Science,BSc,95.68,94.83,88.31,No,No,Placed
+714,Science,BSc,85,82,72,Yes,No,Not Placed
+715,Commerce,BCom,83.37,91.67,64,No,No,Placed
+716,Science,BSc,79,63,60,No,No,Not Placed
+717,Science,BSc,100,70,71,No,No,Placed
+718,Arts,BA,60,91,71.3,No,No,Placed
+719,Arts,BA,63,60,66,No,Yes,Placed
+720,Arts,BA,83.38,84.5,68,Yes,Yes,Not Placed
+721,Commerce,BCom,87,92,71.3,No,Yes,Placed
+722,Commerce,BCom,89.14,91,78.2,Yes,No,Not Placed
+723,Arts,BA,69.29,61.66,63.76,No,Yes,Not Placed
+724,Science,BSc,85.5,73,69,No,Yes,Placed
+725,Science,BSc,95,80,69.86,No,Yes,Placed
+726,Science,BSc,76.77,58.3,61,No,No,Placed
+727,Science,BSc,81.1,79,73.02,No,No,Placed
+728,Professional,BVoc,80,73,68.1,No,Yes,Placed
+729,Arts,BA,87,93,68,No,Yes,Placed
+730,Arts,BA,77,83,79,Yes,No,Not Placed
+731,Science,BSc,79.8,53,56.46,No,Yes,Placed
+732,Science,BSc,96.16,63.5,64.54,Yes,No,Not Placed
+733,Professional,BVoc,79.8,77,66.2,Yes,Yes,Not Placed
+734,Science,BSc,80,84.33,62.86,Yes,No,Not Placed
+735,Commerce,BBA,74.4,83,74.83,No,Yes,Placed
+736,Commerce,BCom,67.16,91.5,77.45,Yes,No,Not Placed
+737,Commerce,BCom,59.16,85,67.44,No,Yes,Placed
+738,Professional,BSW,60,76,60,Yes,No,Not Placed
+739,Commerce,BCom,53,84,65,Yes,No,Not Placed
+740,Science,BSc,83.5,73.2,75,No,Yes,Placed
+741,Professional,BSW,56.63,89.83,77.63,No,No,Placed
+742,Science,BSc,97,89,59,No,No,Not Placed
+743,Science,BSc,83.8,86.1,72,No,No,Placed
+744,Professional,BSW,54,66.16,56,No,No,Not Placed
+745,Science,BSc,92,79.66,65.33,Yes,No,Not Placed
+746,Commerce,BBA,74.4,83,52.165,No,Yes,Placed
+747,Professional,BVoc,80,68,53.41,No,No,Not Placed
+748,Commerce,BCom,77.28,88.167,70,No,No,Placed
+749,Commerce,BBA,76,55.3,55.58,Yes,No,Not Placed
+750,Arts,BA,87.4,78.8,53.99,Yes,No,Not Placed
+751,Science,BSc,85.5,78.8,72.86,No,No,Placed
+752,Commerce,BCom,85,76,56.22,No,No,Not Placed
+753,Professional,BVoc,62,53,55,Yes,No,Not Placed
+754,Commerce,BBA,94.08,94,80,No,No,Placed
+755,Commerce,BCom,87,78,63,Yes,Yes,Not Placed
+756,Science,BSc,79.68,80.5,74.16,Yes,No,Not Placed
+757,Arts,BA,56.48,55,60,No,Yes,Not Placed
+758,Science,BSc,95,94.8,80.1,No,No,Placed
+759,Science,BCA,72.16,64.5,76.6,Yes,Yes,Not Placed
+760,Commerce,BBA,89.3,87.6,71.94,Yes,No,Not Placed
+761,Professional,BVoc,75,70,60,No,No,Placed
+762,Professional,BVoc,85,71,85,Yes,No,Not Placed
+763,Science,BCA,69.44,65.6667,69.25,Yes,No,Not Placed
+764,Commerce,BCom,92.48,89.67,76.44,Yes,No,Not Placed
+765,Arts,BA,58,56,65,No,No,Placed
+766,Professional,BVoc,76,75,72,No,Yes,Placed
+767,Science,BCA,77.9,85.6,66.7,No,Yes,Placed
+768,Science,BSc,85,89.33,71.915,Yes,Yes,Not Placed
+769,Arts,BA,76,78,75,No,No,Placed
+770,Commerce,BCom,89.3,91.4,75,No,No,Placed
+771,Science,BSc,88.16,88.83,76.61,Yes,Yes,Not Placed
+772,Commerce,BCom,94.2,86.66,63.28,No,Yes,Placed
+773,Arts,BA,74,55,60,No,No,Not Placed
+774,Professional,BVC,70,60,70,No,No,Placed
+775,Arts,BA,76.5,82,60.5,Yes,No,Not Placed
+776,Commerce,BCom,66.5,83.83,60.25,No,Yes,Not Placed
+777,Science,BSc,82.8,75.2,75,Yes,No,Not Placed
+778,Science,BSc,91.5,75.4,55,No,No,Not Placed
+779,Science,BCA,77.9,79,70,No,No,Placed
+780,Arts,BA,82,86,65,No,No,Not Placed
+781,Arts,BA,82,84,74,Yes,No,Not Placed
+782,Science,BSc,86.78,77.8,59.74,No,Yes,Placed
+783,Science,BSc,93.67,90.17,85.39,No,No,Placed
+784,Science,BCA,77,80,77.25,No,No,Placed
+785,Science,BSc,86,60,58.6,Yes,No,Not Placed
+786,Science,BCA,95.04,86.4,90.37,No,No,Placed
+787,Commerce,BBA,64,75,63,Yes,Yes,Not Placed
+788,Science,BSc,90.24,59.16,55,No,Yes,Placed
+789,Arts,BA,76,80,75,No,No,Placed
+790,Science,BSc,87.4,81.25,69.33,No,No,Placed
+791,Science,BSc,89.28,79.16,57.69,Yes,No,Not Placed
+792,Arts,BA,69.1,71.1,52.67,No,No,Not Placed
+793,Professional,BVoc,66,72,82,No,Yes,Placed
+794,Science,BCA,80.48,74,58.38,No,No,Not Placed
+795,Science,BSc,70,60,57.5,No,Yes,Not Placed
+796,Science,BSc,67,53,65,Yes,No,Not Placed
+797,Commerce,BCom,89,81,66.25,No,Yes,Placed
+798,Science,BSc,92.1,89,85,No,No,Placed
+799,Science,BSc,95.2,89.16,80.51,No,Yes,Placed
+800,Commerce,BCom,75.2,82.7,60,Yes,No,Not Placed
+801,Arts,BA,92.16,96.83,75.26,No,No,Placed
+802,Commerce,BCom,86.88,90.33,73.16,No,Yes,Placed
+803,Professional,BVoc,74,65,65,No,No,Placed
+804,Arts,BA,77.6,84.67,75.86,Yes,Yes,Not Placed
+805,Science,BSc,88.66,60,58.25,Yes,No,Not Placed
+806,Science,BSc,85.6,84.33,71.33,Yes,No,Not Placed
+807,Arts,BA,70,78.5,72.43,Yes,No,Not Placed
+808,Commerce,BCom,89.2,91.83,83.25,Yes,No,Not Placed
+809,Commerce,BCom,94.24,89.66,77.5,Yes,No,Not Placed
+810,Arts,BA,92.16,96.83,75,No,No,Placed
+811,Commerce,BBA,79,89,70.61,No,No,Placed
+812,Science,BSc,83.66,66.66,70,No,Yes,Placed
+813,Commerce,BCom,72,69,60,No,No,Not Placed
+814,Commerce,BCom,83,83,57.4,No,No,Not Placed
+815,Science,BSc,84,87,71.166,Yes,No,Not Placed
+816,Commerce,BBA,59.84,62.33,53.5,No,No,Not Placed
+817,Arts,BA,88,76.67,70,No,Yes,Placed
+818,Commerce,BCom,76,90.8,61.46,No,Yes,Placed
+819,Commerce,BCom,92,84.6,72.78,No,No,Placed
+820,Science,BSc,86.88,76.16,61.54,Yes,No,Not Placed
+821,Commerce,BCom,71.04,79.33,58.91,No,No,Not Placed
+822,Commerce,BCom,87.04,79.67,60.11,No,No,Not Placed
+823,Commerce,BCom,75.5,90.2,65,No,No,Not Placed
+824,Science,BSc,95.17,93.5,84.34,No,No,Placed
+825,Arts,BA,67,69,55,No,Yes,Placed
+826,Commerce,BCom,78.41,70,56.27,No,No,Not Placed
+827,Arts,BA,75,87,57,No,No,Not Placed
+828,Professional,BVoc,89.3,79.2,73.1,Yes,No,Not Placed
+829,Commerce,BBA,79.5,68.4,61.33,Yes,Yes,Not Placed
+830,Science,BSc,85.7,85.6,71.1,No,Yes,Placed
+831,Science,BSc,91.2,80.66,68.77,No,Yes,Placed
+832,Commerce,BCom,73,82,75,No,No,Placed
+833,Professional,BSW,83,67,68,No,Yes,Placed
+834,Commerce,BBA,81.7,90,74.94,Yes,No,Not Placed
+835,Arts,BA,88,86,74,No,No,Placed
+836,Commerce,BCom,87.5,95.3,76.76,No,No,Placed
+837,Arts,BA,92,92,74,No,No,Placed
+838,Science,BSc,81.3,79.5,69.5,Yes,No,Not Placed
+839,Professional,BVoc,91.2,76.4,71.89,No,Yes,Placed
+840,Commerce,BCom,85,94,73,Yes,No,Not Placed
+841,Professional,BSW,70,71,83,No,No,Placed
+842,Commerce,BCom,80.88,88.88,76.67,No,No,Placed
+843,Commerce,BCom,80.08,69,53.27,No,Yes,Not Placed
+844,Science,BSc,90,85,60,Yes,No,Not Placed
+845,Commerce,BCom,84.8,75.33,68.22,No,Yes,Placed
+846,Commerce,BCom,84.96,89.83,67.16,Yes,No,Not Placed
+847,Arts,BA,76,68,58.33,No,Yes,Not Placed
+848,Arts,BA,95,92.4,70,Yes,Yes,Not Placed
+849,Science,BSc,95.16,93.5,84.52,No,No,Placed
+850,Commerce,BCom,70,75,58.5,No,No,Not Placed
+851,Science,BCA,84.96,89.16,75,Yes,No,Not Placed
+852,Science,BCA,71.04,83.833,74,No,No,Placed
+853,Commerce,BCom,83.6,91,79.6,Yes,No,Not Placed
+854,Science,BCA,82,69,72.3,Yes,No,Not Placed
+855,Science,BSc,90,78,64,Yes,No,Not Placed
+856,Commerce,BCom,91.2,80.4,52.92,No,Yes,Not Placed
+857,Professional,BVoc,62,69,57,No,No,Not Placed
+858,Commerce,BCom,86,78,60,Yes,No,Not Placed
+859,Science,BSc,82,85,68,No,Yes,Placed
+860,Commerce,BBA,79.8,85.33,60.99,No,No,Not Placed
+861,Commerce,BBA,76,84.2,72.15,Yes,Yes,Not Placed
+862,Arts,BA,69,68.85,67.33,No,Yes,Placed
+863,Commerce,BCom,60,67,60,No,No,Placed
+864,Science,BSc,72.33,76.83,64.74,No,No,Placed
+865,Commerce,BBA,80,76,65,No,Yes,Placed
+866,Professional,BVoc,92,72,68.4,No,No,Placed
+867,Commerce,BCom,9,8.4,8.6,No,Yes,Placed
+868,Commerce,BCom,77,92,70,No,Yes,Placed
+869,Professional,BVoc,7,7,7.5,No,Yes,Not Placed
+870,Commerce,BBA,90,82,65,Yes,No,Not Placed
+871,Commerce,BCom,81.16,78.5,67.6,No,Yes,Placed
+872,Commerce,BCom,79,84,66,No,No,Placed
+873,Commerce,BCom,73.28,85.16,72.75,Yes,No,Not Placed
+874,Science,BSc,95,78,69.39,Yes,Yes,Not Placed
+875,Professional,BVoc,87.4,87.5,65,No,No,Placed
+876,Science,BSc,90.08,70,61,Yes,No,Not Placed
+877,Arts,BA,77,67,58.33,Yes,Yes,Not Placed
+878,Science,BSc,83.2,94.5,62.1,Yes,No,Not Placed
+879,Commerce,BCom,84.4,77,60.6,No,No,Not Placed
+880,Arts,BA,68.85,69,72,No,Yes,Placed
+881,Commerce,BCom,78,82.6,60.91,No,No,Not Placed
+882,Science,BSc,95,90,80.61,Yes,No,Not Placed
+883,Science,BSc,80,78,66,Yes,Yes,Not Placed
+884,Science,BSc,85.67,78.167,69.4,No,Yes,Placed
+885,Commerce,BCom,80,80,60,No,Yes,Placed
+886,Science,BSc,95,76,58.9,Yes,No,Not Placed
+887,Arts,BA,95,81.4,65.93,No,Yes,Placed
+888,Professional,BVoc,93.1,71.6,75.6,No,No,Placed
+889,Science,BSc,88,58,62,No,No,Placed
+890,Professional,BVoc,69,58,60,No,Yes,Placed
+891,Science,BSc,90.6,93.5,76,Yes,No,Not Placed
+892,Science,BCA,92.32,85,88.37,No,Yes,Placed
+893,Arts,BA,84,64,58,No,No,Not Placed
+894,Arts,BA,97,67,65,Yes,No,Not Placed
+895,Commerce,BCom,83.6,91,79.66,Yes,No,Not Placed
+896,Commerce,BCom,77,85,63.5,No,No,Placed
+897,Science,BSc,81.7,72,58.3,No,No,Not Placed
+898,Commerce,BCom,92,94,80,No,No,Placed
+899,Science,BSc,80.33,65.3,67.44,No,Yes,Placed
+900,Commerce,BCom,68,70,59.89,No,No,Not Placed
+901,Arts,BA,59.9,54,60,No,No,Not Placed
+902,Science,BSc,81,79,72,No,No,Placed
+903,Science,BSc,87,84,70,Yes,Yes,Not Placed
+904,Commerce,BCom,88.8,97.16,74,No,No,Placed
+905,Arts,BA,68.3,54.5,57,No,No,Not Placed
+906,Commerce,BCom,83,90,71,No,Yes,Placed
+907,Commerce,BCom,81.7,87.33,75.94,No,No,Placed
+908,Commerce,BBA,60,88.6,63,No,No,Placed
+909,Science,BSc,67,72.5,62.5,No,No,Placed
+910,Commerce,BCom,77,73,60,No,No,Not Placed
+911,Commerce,BBA,80.96,64.16,68.94,No,No,Placed
+912,Professional,BVC,81.7,63,71.5,Yes,Yes,Not Placed
+913,Commerce,BCom,98,97,69,No,Yes,Placed
+914,Commerce,BCom,84.8,75.33,70,No,No,Placed
+915,Commerce,BCom,73,85,71,No,No,Placed
+916,Commerce,BBA,96,69,57,No,No,Not Placed
+917,Commerce,BBA,88,89,66.25,Yes,Yes,Not Placed
+918,Professional,BVoc,60,70,64,No,Yes,Not Placed
+919,Commerce,BBA,71.52,60,55.34,No,No,Placed
+920,Science,BSc,97.36,82.42,62.6,No,No,Placed
+921,Commerce,BBA,62,65,55.33,Yes,No,Not Placed
+922,Science,BSc,65,67,57.33,No,Yes,Placed
+923,Commerce,BCom,97.28,90,70.77,No,Yes,Placed
+924,Arts,BA,79,82.8,68.4,No,Yes,Placed
+925,Commerce,BCom,78.72,86.6,66.16,No,Yes,Placed
+926,Science,BSc,72,59,72,Yes,No,Not Placed
+927,Science,BCA,92.32,85,90,No,No,Placed
+928,Arts,BA,84.5,81.2,68.46,No,Yes,Placed
+929,Science,BSc,80,84.33,62.86,Yes,No,Not Placed
+930,Science,BSc,95,89.6,81,No,No,Placed
+931,Commerce,BCom,80,75,56,No,Yes,Not Placed
+932,Commerce,BCom,78,91,80,No,No,Not Placed
+933,Commerce,BCom,74,84,60,No,No,Not Placed
+934,Science,BSc,77.7,58.8,63.5,No,Yes,Placed
+935,Commerce,BBA,61,89,65,Yes,No,Not Placed
+936,Commerce,BCom,99.9,97.16,80.67,No,Yes,Placed
+937,Commerce,BCom,88.96,85.15,65,No,No,Placed
+938,Professional,BVoc,60.16,70.17,63.55,Yes,Yes,Not Placed
+939,Commerce,BBA,78.8,79.6,63,No,No,Not Placed
+940,Arts,BA,92,89,70.86,No,No,Placed
+941,Arts,BA,63,60,66,No,Yes,Placed
+942,Commerce,BBA,65,69,62,No,No,Not Placed
+943,Arts,BA,95,94,76.46,Yes,No,Not Placed
+944,Commerce,BCom,75.5,90.16,65.22,No,Yes,Placed
+945,Science,BSc,83.04,62.5,64.36,No,No,Placed
+946,Arts,BA,75,74,68,Yes,No,Not Placed
+947,Commerce,BCom,95,89.7,65.3,Yes,No,Not Placed
+948,Science,BCA,80.45,76,75,Yes,No,Not Placed
+949,Professional,BVoc,77,49.5,65,Yes,Yes,Not Placed
+950,Commerce,BCom,71.5,85,69.55,No,Yes,Placed
+951,Commerce,BCom,89.98,86,64,Yes,No,Not Placed
+952,Science,BSc,90,82,70,No,No,Placed
+953,Commerce,BCom,77,83.33,69.5,No,No,Placed
+954,Science,BSc,98,100,73.3,No,No,Placed
+955,Professional,BSW,58,67.2,56.3,Yes,No,Not Placed
+956,Science,BSc,88,80,70,No,Yes,Placed
+957,Science,BSc,85.3,81.5,65.07,No,No,Placed
+958,Science,BSc,93,73.8,71,No,Yes,Placed
+959,Commerce,BCom,76,67,60,No,No,Not Placed
+960,Science,BCA,71.04,83.833,75,Yes,No,Not Placed
+961,Commerce,BBA,78,84,57.5,No,No,Not Placed
+962,Commerce,BCom,72,84.85,58.66,Yes,No,Not Placed
+963,Commerce,BCom,64.48,82.33,70.67,No,No,Placed
+964,Commerce,BCom,86,85.5,79.05,Yes,No,Not Placed
+965,Arts,BA,68.8,75.4,70,No,Yes,Placed
+966,Commerce,BBA,76,90,66.8,No,Yes,Placed
+967,Commerce,BCom,63.84,84.33,59,No,No,Not Placed
+968,Science,BSc,86.7,83.3,70.8,No,No,Placed
+969,Science,BSc,89,76.6,72.385,Yes,No,Not Placed
+970,Commerce,BCom,94,91,79.94,No,No,Placed
+971,Commerce,BCom,91.3,83,73.5,Yes,Yes,Not Placed
+972,Arts,BA,60.16,72.8,63,No,Yes,Not Placed
+973,Commerce,BCom,85.5,76,56.22,No,Yes,Placed
+974,Commerce,BCom,89.83,89.66,77.38,No,No,Placed
+975,Science,BSc,90,93,61.05,Yes,No,Not Placed
+976,Science,BCA,74.2,90.6,79.8,No,No,Placed
+977,Arts,BA,73,80,58,No,Yes,Not Placed
+978,Commerce,BCom,83.89,89.14,69.65,No,Yes,Placed
+979,Commerce,BCom,82,86,60,No,No,Not Placed
+980,Arts,BA,82,82,64.46,No,No,Placed
+981,Commerce,BCom,74.56,75.17,66,No,Yes,Placed
+982,Commerce,BCom,87,92,71.3,No,Yes,Placed
+983,Arts,BA,67,69,56,No,Yes,Not Placed
+984,Science,BSc,94,80,55,Yes,No,Not Placed
+985,Professional,BVoc,80,82,80,Yes,No,Placed
+986,Science,BSc,88,93.5,80,No,No,Placed
+987,Science,BSc,87,79,54,Yes,No,Not Placed
+988,Commerce,BBA,92.96,94.67,73,No,Yes,Placed
+989,Commerce,BCom,87,93,70,No,Yes,Placed
+990,Commerce,BCom,87,89,70,No,Yes,Placed
